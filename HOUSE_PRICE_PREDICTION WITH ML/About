@@ -1,0 +1,15 @@
+House Price Prediction is a machine learning project that aims to estimate the selling price of a house based on features like the number of bedrooms, 
+bathrooms, area in square feet, and location. By analyzing historical housing data, the model learns the relationship between these factors and the final price. 
+Using regression algorithms, it can predict prices for new or unseen properties. This helps buyers, sellers, and real estate agents make informed decisions. 
+The project is implemented using Python libraries like Pandas, Scikit-learn, and visualized using tools like Matplotlib or Streamlit for easy user interaction.
+
+
+
+
+
+
+
+
+
+
+
